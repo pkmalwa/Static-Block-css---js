@@ -1,2 +1,2 @@
-# Xampp
-Xampp 5.6.40 for magento 1
+# ADD External CSS - js For Static Block IN Magento 1.x 
+
